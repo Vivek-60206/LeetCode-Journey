@@ -17,7 +17,7 @@ public:
         }
 
         // When the length is an odd number, we can get rid of the middle digit
-        // by revertedNumber / 10. For example, for 12321:
+        // by revertedNumber / 10. For example, for 12321 :
         // at the end of the loop, x = 12, revertedNumber = 123.
         return x == revertedNumber || x == revertedNumber / 10;
     }

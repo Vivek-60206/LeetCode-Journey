@@ -1,6 +1,6 @@
 # LeetCode Journey
 
-A collection of my LeetCode solutions, documenting my journey of improving problem-solving skills and mastering Data Structures and Algorithms (DSA).
+A collection of my LeetCode solutions, documenting my journey of improving problem-solving skills and mastering Data Structures and Algorithms(DSA).
 
 ## About This Repository
 
